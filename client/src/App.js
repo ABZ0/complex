@@ -1,6 +1,6 @@
-import React, { Component } from '../node_modules/@types/react';
+import React, { Component } from 'react';
 import './App.css';
-import { BrowserRouter as Router, Route, Link } from '../node_modules/react-router-dom';
+import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
 import OtherPage from './OtherPage';
 import Fib from './Fib';
 
